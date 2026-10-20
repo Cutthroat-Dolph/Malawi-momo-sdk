@@ -18,3 +18,11 @@ client.charge(phone="+265991234567", amount=5000, reference="order-123")
 
 ## Why I built this
 No good SDK exists for TNM Mpamba. Airtel Malawi uses different endpoints.
+---
+### 💼 Hire Me for Integrations
+
+I'm available for Airtel Money & TNM Mpamba integrations for Malawi businesses.
+
+**Payment:** TNM Mpamba - 0896251020 (Elizabeth Edwin Kachale)
+**Location:** Blantyre, Malawi
+**Contact:** WhatsApp me on this number
