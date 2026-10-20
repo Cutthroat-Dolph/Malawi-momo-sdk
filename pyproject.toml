@@ -1,0 +1,13 @@
+[project]
+name = "malawi-momo-sdk"
+version = "0.1.0"
+description = "Unified Python SDK for Airtel Money Malawi and TNM Mpamba"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{name = "Cutthroat-Dolph"}]
+dependencies = ["httpx>=0.24", "pydantic>=2.0"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
